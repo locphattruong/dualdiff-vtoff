@@ -5,6 +5,7 @@
 **Accepted at ICPR 2026**
 
 > *Loc-Phat Truong, Meysam Madadi, Sergio Escalera*
+> 
 > HuPBA Group, Universitat de Barcelona & Computer Vision Center
 
 ---
@@ -46,16 +47,8 @@ We are currently preparing the codebase for public release. This will include:
 
 ## Citation
 
-If you find this work useful, please consider citing:
+If you find this work useful, please consider citing: (Coming soon)
 
-```bibtex
-@inproceedings{truong2026vtoff,
-  title     = {What Matters in Virtual Try-Off? Dual-UNet Diffusion Model For Garment Reconstruction},
-  author    = {Truong, Loc-Phat and Madadi, Meysam and Escalera, Sergio},
-  booktitle = {Proceedings of the International Conference on Pattern Recognition (ICPR)},
-  year      = {2026}
-}
-```
 
 ---
 
