@@ -15,7 +15,7 @@
 
 Beyond its aesthetic appeal, VTOFF has practical implications for the fashion industry, potentially supporting brands in reducing the cost and effort of flat-lay photoshoots through automated garment reconstruction.
 
-![Demo](demo.png)
+![Demo](featured.png)
 
 ---
 
