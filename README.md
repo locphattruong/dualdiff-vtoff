@@ -18,6 +18,8 @@ Beyond its aesthetic appeal, VTOFF has practical implications for the fashion in
 
 ![Demo](featured.png)
 
+![Arch](dualnet.png)
+
 ---
 
 ## Abstract
