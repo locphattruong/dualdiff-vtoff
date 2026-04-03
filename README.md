@@ -10,8 +10,6 @@
 
 ---
 
-## Overview
-
 **Virtual Try-Off (VTOFF)** is the inverse problem of Virtual Try-On: given an on-body image, reconstruct the canonical garment as it would appear flat or unworn — realistic enough to belong on a product catalogue page.
 
 Beyond its aesthetic appeal, VTOFF has practical implications for the fashion industry, potentially supporting brands in reducing the cost and effort of flat-lay photoshoots through automated garment reconstruction.
@@ -20,7 +18,7 @@ Beyond its aesthetic appeal, VTOFF has practical implications for the fashion in
 
 ---
 
-## Architecture
+## Overview
 
 ![Architecture](dualnet.png)
 
