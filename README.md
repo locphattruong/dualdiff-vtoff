@@ -18,7 +18,20 @@ Beyond its aesthetic appeal, VTOFF has practical implications for the fashion in
 
 ![Demo](featured.png)
 
-![Arch](dualnet.png)
+---
+
+## Architecture
+
+![Architecture](dualnet.png)
+
+*Overview of the Dual-UNet Diffusion Model framework for VTOFF.*
+
+The framework consists of two branches:
+
+- **CreationNet** (Generation branch) — a denoising UNet that generates the garment image
+- **ConditionNet** (Conditioning branch) — extracts low-level features from a VTON-styled input, formed by channel-concatenating the VAE-encoded latents of the person, mask, and cloth-agnostic image
+
+High-level features are provided by an **IP-Adapter** and a **text encoder** (garment description). These high-level and low-level features are fused via self-attention and cross-attention to condition CreationNet.
 
 ---
 
